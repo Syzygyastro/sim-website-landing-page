@@ -26,7 +26,7 @@ export function LandingPage() {
       </div>
 
       <div className="relative z-10 animate-fade-in-up flex flex-col items-center gap-7">
-        <h1 className="text-4xl font-bold tracking-wider text-sigh-blue font-quicksand">
+        <h1 className="text-4xl font-bold tracking-wider text-sigh-blue">
           sighcomics
         </h1>
 

@@ -96,7 +96,7 @@ export default {
         },
       },
       animation: {
-        float: "float 10s ease-in-out infinite",
+        float: "float 60s ease-in-out infinite",
         "fade-in-up": "fade-in-up 1.2s ease-out both",
         "fade-in": "fade-in 1.8s ease-out 0.6s both",
         shimmer: "shimmer 3s ease-in-out infinite",

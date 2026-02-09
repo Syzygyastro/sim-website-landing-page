@@ -10,8 +10,8 @@ export function Logo({ className }: LogoProps) {
         alt="Sigh Comics Logo"
         className="w-48 h-auto object-contain mix-blend-multiply
                    drop-shadow-[0_4px_24px_rgba(59,76,192,0.1)]
-                   animate-float
-                   transition-all duration-300 ease-in-out
+                   animate-float [animation-duration:4s]
+                   transition-all ease-in-out
                    hover:scale-105
                    hover:drop-shadow-[0_8px_32px_rgba(59,76,192,0.2)]"
       />
