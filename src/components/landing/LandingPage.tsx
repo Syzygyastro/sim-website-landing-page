@@ -30,7 +30,7 @@ export function LandingPage() {
           sighcomics
         </h1>
 
-        <div className="w-20 h-px bg-gradient-to-r from-transparent via-sigh-lavender/50 to-transparent" />
+        {/* <div className="w-20 h-px bg-gradient-to-r from-transparent via-sigh-lavender/50 to-transparent" /> */}
 
         <Logo />
 
